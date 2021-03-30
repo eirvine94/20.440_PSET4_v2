@@ -52,7 +52,7 @@ Scripts -- R file containing code necessary to run analysis
 
 
 Installation:
-Run the First_Pass.R file to peform the analysis. QC_Plot.tiff will subsequently be located in Plots folder.
+This analysis should be performed in R. Run the First_Pass.R file to peform the analysis. QC_Plot.tiff will subsequently be located in Plots folder.
 
 Requires Seurat version 3.1.5
 
